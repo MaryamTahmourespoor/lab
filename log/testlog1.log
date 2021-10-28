@@ -1,0 +1,5 @@
+2021-10-28 15:01:24,088 [main] INFO logger_File - Scenario Login to Hotel Started
+2021-10-28 15:01:32,620 [main] INFO logger_File - Hotel is egue to Hotel
+2021-10-28 15:01:34,115 [main] INFO logger_File - user cliked on signIn 
+2021-10-28 15:01:34,230 [main] INFO logger_File -  sign is page is displayed
+2021-10-28 15:01:34,486 [main] INFO logger_File - Scenario Login to Hotel PASSED

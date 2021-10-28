@@ -1,0 +1,41 @@
+2021-10-28 10:37:55,823 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 10:38:05,042 - logger file -INFO - Scenario Login to Hotel UNDEFINED
+2021-10-28 11:48:12,513 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 11:48:24,783 - logger file -INFO - Scenario Login to Hotel UNDEFINED
+2021-10-28 11:52:41,515 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 11:52:52,265 - logger file -INFO - Scenario Login to Hotel PENDING
+2021-10-28 13:48:48,990 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 13:49:05,391 - logger file -INFO - Hotel is egue to Hotel
+2021-10-28 13:49:20,214 - logger file -INFO - user cliked on signIn 
+2021-10-28 13:49:20,406 - logger file -INFO -  sign is page is displayed
+2021-10-28 13:49:20,993 - logger file -INFO - Scenario Login to Hotel PASSED
+2021-10-28 14:35:27,041 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 14:35:43,174 - logger file -INFO - Hotel is egue to Hotel
+2021-10-28 14:35:46,064 - logger file -INFO - user cliked on signIn 
+2021-10-28 14:35:46,171 - logger file -INFO -  sign is page is displayed
+2021-10-28 14:35:46,534 - logger file -INFO - Scenario Login to Hotel PASSED
+2021-10-28 14:38:37,475 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 14:38:49,800 - logger file -INFO - Hotel is egue to Hotel
+2021-10-28 14:38:52,724 - logger file -INFO - user cliked on signIn 
+2021-10-28 14:38:52,833 - logger file -INFO -  sign is page is displayed
+2021-10-28 14:38:53,150 - logger file -INFO - Scenario Login to Hotel PASSED
+2021-10-28 14:46:26,687 - logger file -INFO - Scenario Login to Hotel Started
+2021-10-28 14:46:39,019 - logger file -INFO - Hotel is egue to Hotel
+2021-10-28 14:46:40,960 - logger file -INFO - user cliked on signIn 
+2021-10-28 14:46:41,080 - logger file -INFO -  sign is page is displayed
+2021-10-28 14:46:41,318 - logger file -INFO - Scenario Login to Hotel PASSED
+2021-10-28 15:24:56,926 - logger_File -INFO - Scenario Login to Hotel Started
+2021-10-28 15:25:06,855 - logger_File -INFO - Hotel is egue to Hotel
+2021-10-28 15:25:08,768 - logger_File -INFO - user cliked on signIn 
+2021-10-28 15:25:08,891 - logger_File -INFO -  sign is page is displayed
+2021-10-28 15:25:09,345 - logger_File -INFO - Scenario Login to Hotel PASSED
+2021-10-28 15:44:49,872 - logger_File -INFO - Scenario Login to Hotel Started
+2021-10-28 15:45:42,514 - logger_File -INFO - Hotel is egue to Hotel
+2021-10-28 15:45:43,913 - logger_File -INFO - user cliked on signIn 
+2021-10-28 15:45:44,032 - logger_File -INFO -  sign is page is displayed
+2021-10-28 15:45:44,399 - logger_File -INFO - Scenario Login to Hotel PASSED
+2021-10-28 15:55:57,469 - logger_File -INFO - Scenario Login to Hotel Started
+2021-10-28 15:56:12,881 - logger_File -INFO - Hotel is egue to Hotel
+2021-10-28 15:56:14,078 - logger_File -INFO - user cliked on signIn 
+2021-10-28 15:56:14,252 - logger_File -INFO -  sign is page is displayed
+2021-10-28 15:56:14,661 - logger_File -INFO - Scenario Login to Hotel PASSED

@@ -1,0 +1,93 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-10-28T19:55:57.227Z",
+        "before": [
+          {
+            "output": [
+              "Scenario Login to Hotel Started"
+            ],
+            "result": {
+              "duration": 15490684300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.initializre.beforHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Login to Hotel",
+        "description": "",
+        "id": "test-hotel-domain;login-to-hotel",
+        "after": [
+          {
+            "output": [
+              "Scenario Login to Hotel PASSED"
+            ],
+            "result": {
+              "duration": 409454200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.initializre.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 45878600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user is on hotel website",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_is_on_hotel_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1195788700,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user click on signIn button",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_click_on_sign_in_button()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 170947500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should see signIn page",
+            "match": {
+              "location": "stepDefinitions.TestStepDef.user_should_see_sign_in_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Test"
+          }
+        ]
+      }
+    ],
+    "name": "Test Hotel domain",
+    "description": "",
+    "id": "test-hotel-domain",
+    "keyword": "Feature",
+    "uri": "classpath:features/Test.feature",
+    "tags": []
+  }
+]
